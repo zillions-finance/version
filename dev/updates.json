@@ -1,8 +1,12 @@
 {
     "current": {
-        "version": "1.0.0",
+        "version": "1.0.1",
         "changes": [
-            "1|-|1|-|Initial Release"
+            "1|-|3|-|Nullam tempor leo sit amet nulla congue, ac sodales nisi maximus.",
+            "2|-|4|-|Ut sit amet ante at elit placerat congue.",
+            "3|-|2|-|Nulla in ex quis neque pharetra pellentesque.",
+            "1|-|1|-|Vivamus ut justo egestas, auctor dolor id, scelerisque quam.",
+            "5|-|5|-|Curabitur venenatis tellus elementum odio tempus, id molestie mi molestie."
         ],
         "path": "",
         "ipfs": ""
